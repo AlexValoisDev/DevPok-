@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Pokedex Simples: Seu guia para o mundo Pokémon!**
+### **Pokedex Simples: Seu guia para o mundo Pokémon!** - Feito com Imerção DEV da Alura com Google Gemini
 
 **O que é isso?**
 
